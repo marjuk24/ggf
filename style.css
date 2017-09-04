@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #cccccc;
+}
+.header-emg img{
+    width: 100%;
+}
+.t-info{
+    margin: 20px;
+    width:94%;
+    background-color: white;
+    padding: 20px;
+}
+.information{
+    background-color:#eeeeee;
+    padding: 15px;
+    font-size: 20px;
+}
+.information img{
+    float: right;
+}
+.line{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+.contract img{
+    float: left;
+}
